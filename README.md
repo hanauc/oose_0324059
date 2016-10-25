@@ -7,4 +7,4 @@
 
 資管3B 0324026 洪宇謙
 
-![Alt text](/path/to/http://i.imgur.com/XuczBzA.jpg)
+![Alt text](http://i.imgur.com/XuczBzA.jpg)
