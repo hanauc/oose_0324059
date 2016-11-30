@@ -15,3 +15,6 @@
 
 循序圖
 ![Alt text](http://i.imgur.com/Pfp4XRq.jpg)
+
+
+pandoc -f docx -t markdown 強韌圖.docx -o foo.markdown
