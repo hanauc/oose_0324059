@@ -12,3 +12,6 @@
 
 使用個案圖
 ![Alt text](http://imgur.com/cqUn87O.jpg)
+
+循序圖
+![Alt text](http://i.imgur.com/Pfp4XRq.jpg)
