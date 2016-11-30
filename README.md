@@ -15,7 +15,3 @@
 
 循序圖
 ![Alt text](http://i.imgur.com/Pfp4XRq.jpg)
-
-![unoconv -f html 強韌圖.docx
-pandoc -f html -t markdown -o test.md 強韌圖.html]
-
