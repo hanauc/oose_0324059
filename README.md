@@ -14,3 +14,7 @@
 
 循序圖
 ![Alt text](http://i.imgur.com/Pfp4XRq.jpg)
+
+強韌圖
+![Alt text](http://i.imgur.com/zn48WRF.png)
+![Alt text](http://i.imgur.com/g2k68In.png)
