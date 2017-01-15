@@ -12,9 +12,36 @@
 # 使用個案圖
 ![Alt text](http://imgur.com/WkPLOS2.jpg)
 
+# 活動圖
+![Alt text](http://i.imgur.com/ROahpWC.png)
+
 # 循序圖
 ![Alt text](http://i.imgur.com/Pfp4XRq.jpg)
 
 # 強韌圖
 ![Alt text](http://i.imgur.com/zn48WRF.png)
 ![Alt text](http://i.imgur.com/g2k68In.png)
+
+# 類別圖
+![Alt text](http://i.imgur.com/ZYoLPtH.jpg)
+
+# APP介面
+
+登入
+![Alt text](http://i.imgur.com/0JJX25v.jpg)
+
+註冊頁面
+![Alt text](http://i.imgur.com/VcEhxfK.jpg)
+
+使用者介面
+![Alt text](http://i.imgur.com/978iiaq.jpg)
+
+選擇介面
+![Alt text](http://i.imgur.com/k2gD7Nw.jpg)
+![Alt text](http://i.imgur.com/c8uzq6n.jpg)
+
+地圖顯示
+![Alt text](http://i.imgur.com/jUa1j8S.jpg)
+
+店家資訊
+![Alt text](http://i.imgur.com/8FW6Acy.jpg)
